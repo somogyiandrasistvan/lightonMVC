@@ -10,12 +10,17 @@ div {
   grid-template-columns: 1fr 1fr 1fr;
 }
 
-body{
-    margin: auto;
-    width: 180px;
-    text-align: center;
+body {
+  margin: auto;
+  width: 180px;
+  text-align: center;
 }
 
-footer{
-    margin-top: 200px;
+footer {
+  margin-top: 200px;
+}
+
+.reset {
+  margin-left: 220px;
+  margin-top: 30px;
 }
