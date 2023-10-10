@@ -1,0 +1,21 @@
+div {
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  margin: 5px;
+}
+.elemek {
+  width: 0px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+body{
+    margin: auto;
+    width: 180px;
+    text-align: center;
+}
+
+footer{
+    margin-top: 200px;
+}
